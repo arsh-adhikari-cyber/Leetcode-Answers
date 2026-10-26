@@ -45,11 +45,11 @@ If you want to explore the solutions locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/arsh-adhikari-cyber/Leetcode-Answers.git
    ```
 2. **Navigate to the repository:**
    ```bash
-   cd YOUR_REPO_NAME
+   cd Leetcode-Answers
    ```
 3. **Browse problems:** Find the problem folder you're interested in and open the respective code or explanation file.
 
